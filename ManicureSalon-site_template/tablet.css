@@ -1,0 +1,30 @@
+@media (max-width: 1060px) {
+  .center {
+    padding-left: calc(50% - 400px);
+    padding-right: calc(50% - 400px);
+  }
+  .header_nav {
+    display: none;
+  }
+  .nav_icons {
+    display: flex;
+  }
+  .topBar {
+    background-position: left;
+  }
+  .about_img_block {
+    -moz-column-gap: 8px;
+         column-gap: 8px;
+  }
+  .services_content {
+    padding-left: calc(50% - 550px + 325px);
+    padding-right: calc(50% - 550px + 325px);
+  }
+  .services_item {
+    width: 100%;
+  }
+  .review_item {
+    padding: 39px 38px 22px 28px;
+    max-width: 280px;
+  }
+}/*# sourceMappingURL=tablet.css.map */

@@ -1,0 +1,69 @@
+@media (max-width: 1450px) {
+    .center {
+        padding-left: calc(50% - 1000px / 2);
+        padding-right: calc(50% - 1000px / 2);
+    }
+
+    .box_shadow {
+        background: linear-gradient(90deg, #422a3c 38.42%, rgba(66, 42, 60, 0.85) 48.52%, rgba(66, 42, 60, 0.8) 52.11%, rgba(66, 42, 60, 0.31) 60.12%, rgba(66, 42, 60, 0) 100%);
+    }
+
+    .services_content {
+        padding-top: 80px;
+        padding-bottom: 100px;
+    }
+
+    .reviews_block {
+        justify-content: space-around;
+    }
+
+    .review_info {
+        margin-bottom: 40px;
+    }
+
+    .review_item {
+        padding: 39px 48px 22px 43px;
+        max-width: 320px;
+    }
+
+    .review_text {
+        height: 120px;
+    }
+
+    .footer_content {
+        padding-right: 200px;
+    }
+
+}
+
+@media (max-width: 1610px) {
+    .services_content {
+        padding-left: calc(50% - 1100px / 2);
+        padding-right: calc(50% - 1100px / 2);
+    }
+
+    .services_item {
+        width: 250px;
+    }
+
+    .services_item_title {
+        font-size: 20px;
+        letter-spacing: 0;
+    }
+}
+
+@media (max-width: 1380px) {
+
+    .topBar {
+        background-size: cover;
+    }
+
+    .services_content {
+        padding-left: calc(50% - 1100px / 2 + 100px);
+        padding-right: calc(50% - 1100px / 2 + 100px);
+    }
+
+    .services_item {
+        width: 280px;
+    }
+}
