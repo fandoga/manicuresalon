@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/manicuresalon/static/css/main.363b9268.css",
+    "main.js": "/manicuresalon/static/js/main.1e4ead49.js",
+    "static/js/453.cab105ee.chunk.js": "/manicuresalon/static/js/453.cab105ee.chunk.js",
+    "static/media/BG_img_top.png": "/manicuresalon/static/media/BG_img_top.b7c07f3c14833a68a67e.png",
+    "static/media/logo.svg": "/manicuresalon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/manicuresalon/index.html",
+    "main.363b9268.css.map": "/manicuresalon/static/css/main.363b9268.css.map",
+    "main.1e4ead49.js.map": "/manicuresalon/static/js/main.1e4ead49.js.map",
+    "453.cab105ee.chunk.js.map": "/manicuresalon/static/js/453.cab105ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.363b9268.css",
+    "static/js/main.1e4ead49.js"
+  ]
+}
