@@ -9,7 +9,7 @@
 
 
 ## 🔗 Ссылка на демо:
-[Смотреть сайт](https://salon-manicur.free.nf/)
+[Смотреть сайт](https://fandoga.github.io/manicuresalon/)
 
 ---
 
